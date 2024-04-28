@@ -6,7 +6,7 @@ Consistent hash package for Go.
 Installation
 ------------
 
-    go get github.com/toolkits/consistent
+    go get github.com/signmem/consistent
 
 Examples
 --------
